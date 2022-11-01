@@ -1,2 +1,1 @@
-# first_bot
- 
+# My first Telegram bot. It sends jokes.
